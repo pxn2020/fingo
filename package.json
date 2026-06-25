@@ -1,8 +1,11 @@
 {
   "name": "haxball-host",
   "version": "1.0.0",
-  "main": "haxball.js",
+  "main": "haxball_host_RENDER_Version2.js",
   "scripts": {
-    "start": "node haxball.js"
+    "start": "node haxball_host_RENDER_Version2.js"
+  },
+  "dependencies": {
+    "haxball-headless": "latest"
   }
 }
